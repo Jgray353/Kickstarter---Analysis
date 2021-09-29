@@ -28,4 +28,4 @@ From the Outcomes based on Goals, I can conclude most theater productions don't 
 Some limitations of this dataset are not being able to determine what each play is expected to make in terms of ticket sales. It's easy to conclude lower budgeted productions are more successful. But they also may not be for huge venues with a higher ticket price. Whereas those successful productions in the 35000 - 44999 range might be bringing in a lot more money, given that their fundraising goal is much higher. 
 
 - What are some other possible tables and/or graphs that we could create?
-We could create a table/graph to show outcome based on the lengths of the Kickstarter campaigns. That way we can get an idea of how Outcome, amount, and launch success/failure relative to length of time the Kickstarter ran. 
+We could create a table/graph to show outcome based on the lengths of the Kickstarter campaigns. That way we can get an idea of how outcome, amount, and launch success/failure relate to the length of time the Kickstarter ran. 
